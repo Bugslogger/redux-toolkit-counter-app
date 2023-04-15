@@ -1,6 +1,11 @@
+# Bugslogger
+Like share and subscribe.
+
+## Number Counter Using Redux-toolkit
 We are going to create number counter application using redux-toolkit.
 
 # Steps
+follow all step and watch video on youtube for proper understanding.
 
 ## step: 1
 
