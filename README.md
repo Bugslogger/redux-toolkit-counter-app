@@ -34,5 +34,8 @@ here step 2 is completed.
 
 1. create add and sub funtion to add and substract value in Counter.jsx.
 2. get value from store and display on web page.
-3. now add functionality to our Add and Sub button. 
+3. now add functionality to our Add and Sub button.
    on click increase and decrease value and display it.
+
+Video Ends.
+Like share and subscribe.
